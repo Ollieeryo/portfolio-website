@@ -15,7 +15,7 @@ const About = () => {
             Hi, I am Oliver, nice to meet you. Please take a look around.
           </div>
           <div>
-            I have six months of experience in front-end development and one year of experience in website design and online marketing.<br></br>
+            I have 8 months of experience in front-end development and one year of experience in website design and online marketing.<br></br>
             
             Also, I am proficient in using React.js for front-end development and API integration, and I have experience in independent development as well as collaboration with back-end developers.<br></br>
 
